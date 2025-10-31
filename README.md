@@ -43,5 +43,6 @@ An automated email spam detection and filtering workflow built with n8n. Integra
 - Basic familiarity with n8n workflow editor
 
 
+<img width="1077" height="274" alt="Screenshot 2025-10-31 at 10 34 49 PM" src="https://github.com/user-attachments/assets/355827e7-293d-411d-b282-03e135a207e0" />
 
 
